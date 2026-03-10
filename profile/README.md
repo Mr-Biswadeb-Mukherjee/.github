@@ -51,17 +51,13 @@ Repositories maintained under **Biswadeb Mukherjee's Lab** follow a defined gove
 
 Before interacting with any repository, contributors and users are encouraged to review the following policy documents:
 
-- **Project Governance** – [GOVERNANCE.md](https://github.com/Mr-Biswadeb-Mukherjee/.github/blob/main/GOVERNANCE.md)  
-  Defines repository governance, maintainer authority, engineering standards, and project usage rules.
+- **[GOVERNANCE:](https://github.com/Mr-Biswadeb-Mukherjee/.github/blob/main/GOVERNANCE.md)** Defines repository governance, maintainer authority, engineering standards, and project usage rules.
 
-- **Security Policy** – [SECURITY.md](https://github.com/Mr-Biswadeb-Mukherjee/.github/blob/main/Security.md)  
-  Provides instructions for responsible vulnerability disclosure and security reporting.
+- **[SECURITY.md:](https://github.com/Mr-Biswadeb-Mukherjee/.github/blob/main/Security.md)** Provides instructions for responsible vulnerability disclosure and security reporting.
 
-- **Contribution Guidelines** – [CONTRIBUTING.md](https://github.com/Mr-Biswadeb-Mukherjee/.github/blob/main/Contributing.md)  
-  Describes the contribution workflow, pull request expectations, and development practices.
+- **[CONTRIBUTING.md:](https://github.com/Mr-Biswadeb-Mukherjee/.github/blob/main/Contributing.md)** Describes the contribution workflow, pull request expectations, and development practices.
 
-- **License** – [License.md](https://github.com/Mr-Biswadeb-Mukherjee/.github/blob/main/LICENSE)  
-  Defines the license used by the organisational project.
+- **[License.md:](https://github.com/Mr-Biswadeb-Mukherjee/.github/blob/main/LICENSE)** Defines the license used by the organisational project.
 
 All contributors are expected to review these documents before submitting issues, pull requests, or participating in repository discussions.
 
