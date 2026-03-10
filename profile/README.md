@@ -63,6 +63,24 @@ All contributors are expected to review these documents before submitting issues
 
 ---
 
+## Support the Research
+
+If you find value in the research, tools, and projects published by **Biswadeb Mukherjee's Lab**, you may support the continued development of these initiatives.
+
+Contributions help sustain research activities, maintain infrastructure used for experimentation, and support the development of new tools and frameworks.
+
+Before making any contribution, please review the **Payment & Support Rules**:
+
+* **Payment Rules:** https://official-biswadeb941.in/payment-support
+
+You can support the work here:
+
+<a href="https://www.buymeacoffee.com/official.biswadeb941"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=official.biswadeb941&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+Support is voluntary and does not constitute payment for services.
+
+--
+
 ## Maintainer
 
 **Mr. Biswadeb Mukherjee**
