@@ -63,7 +63,7 @@ All contributors are expected to review these documents before submitting issues
 
 ---
 
-Maintainer
+## Maintainer
 
 **Mr. Biswadeb Mukherjee**
 
