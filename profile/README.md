@@ -51,13 +51,13 @@ Repositories maintained under **Biswadeb Mukherjee's Lab** follow a defined gove
 
 Before interacting with any repository, contributors and users are encouraged to review the following policy documents:
 
-- **[GOVERNANCE:](https://github.com/Mr-Biswadeb-Mukherjee/.github/blob/main/GOVERNANCE.md)** Defines repository governance, maintainer authority, engineering standards, and project usage rules.
+- **[GOVERNANCE:](../GOVERNANCE.md)** Defines repository governance, maintainer authority, engineering standards, and project usage rules.
 
-- **[SECURITY:](https://github.com/Mr-Biswadeb-Mukherjee/.github/blob/main/Security.md)** Provides instructions for responsible vulnerability disclosure and security reporting.
+- **[SECURITY:](../Security.md)** Provides instructions for responsible vulnerability disclosure and security reporting.
 
-- **[CONTRIBUTING:](https://github.com/Mr-Biswadeb-Mukherjee/.github/blob/main/Contributing.md)** Describes the contribution workflow, pull request expectations, and development practices.
+- **[CONTRIBUTING:](../Contributing.md)** Describes the contribution workflow, pull request expectations, and development practices.
 
-- **[License:](https://github.com/Mr-Biswadeb-Mukherjee/.github/blob/main/LICENSE)** Defines the license used by the organisational project.
+- **[License:](../LICENSE)** Defines the license used by the organisational project.
 
 All contributors are expected to review these documents before submitting issues, pull requests, or participating in repository discussions.
 
@@ -69,17 +69,13 @@ If you find value in the research, tools, and projects published by **Biswadeb M
 
 Contributions help sustain research activities, maintain infrastructure used for experimentation, and support the development of new tools and frameworks.
 
-Before making any contribution, please review the **Payment & Support Rules**:
-
-* **Payment Rules:** https://official-biswadeb941.in/payment-support
+Before making any contribution, please review the **[Payment Rules & Support:](../Payment-Rules.md)**
 
 You can support the work here:
 
-<a href="https://www.buymeacoffee.com/official.biswadeb941"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=official.biswadeb941&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>
-
-Support is voluntary and does not constitute payment for services.
-
---
+<a href="https://www.buymeacoffee.com/official.biswadeb941" target="_blank">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee">
+</a>
 
 ## Maintainer
 
