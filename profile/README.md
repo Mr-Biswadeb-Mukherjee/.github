@@ -53,11 +53,11 @@ Before interacting with any repository, contributors and users are encouraged to
 
 - **[GOVERNANCE:](https://github.com/Mr-Biswadeb-Mukherjee/.github/blob/main/GOVERNANCE.md)** Defines repository governance, maintainer authority, engineering standards, and project usage rules.
 
-- **[SECURITY.md:](https://github.com/Mr-Biswadeb-Mukherjee/.github/blob/main/Security.md)** Provides instructions for responsible vulnerability disclosure and security reporting.
+- **[SECURITY:](https://github.com/Mr-Biswadeb-Mukherjee/.github/blob/main/Security.md)** Provides instructions for responsible vulnerability disclosure and security reporting.
 
-- **[CONTRIBUTING.md:](https://github.com/Mr-Biswadeb-Mukherjee/.github/blob/main/Contributing.md)** Describes the contribution workflow, pull request expectations, and development practices.
+- **[CONTRIBUTING:](https://github.com/Mr-Biswadeb-Mukherjee/.github/blob/main/Contributing.md)** Describes the contribution workflow, pull request expectations, and development practices.
 
-- **[License.md:](https://github.com/Mr-Biswadeb-Mukherjee/.github/blob/main/LICENSE)** Defines the license used by the organisational project.
+- **[License:](https://github.com/Mr-Biswadeb-Mukherjee/.github/blob/main/LICENSE)** Defines the license used by the organisational project.
 
 All contributors are expected to review these documents before submitting issues, pull requests, or participating in repository discussions.
 
