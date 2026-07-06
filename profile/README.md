@@ -1,4 +1,4 @@
-# Biswadeb Mukherjee's Lab
+# Biswadeb's Lab
 
 **OSINT • Offensive Security Research • Malware Engineering**
 
