@@ -1,87 +1,71 @@
 # Biswadeb's Lab
 
-**OSINT • Offensive Security Research • Malware Engineering**
+**OSINT • Domain Intelligence • DNS Infrastructure • Web Application Security • Investigative Security Research**
 
-Biswadeb Mukherjee's Lab is an independent research organisation focused on advancing OSINT, offensive security research, Malware Engineering & Anti-Forensic through the development of tools, frameworks, and experimental platforms. The organisation publishes open research projects that explore real-world adversarial techniques, attack surface discovery, and automated security testing methodologies.
-
-We focus on practical research and engineering that helps security professionals understand how modern systems fail, how attackers operate, and how offensive strategies can be improved through research & practical works.
+Biswadeb's Lab is an independent cybersecurity research organisation that builds tools and frameworks at the intersection of technical engineering and adversary behaviour analysis. Research here is practical, evidence-based, and grounded in how real-world adversarial operations actually work.
 
 ---
 
-## Research Areas
+## What This Organisation Does
 
-The organisation focuses on several key areas of offensive security research:
+The lab exists to produce research and tooling that is genuinely useful — not academic exercises or proof-of-concept noise. Every project published here was built to solve a real problem encountered during active research work.
 
-* **Red Team Infrastructure** – Development of tooling and infrastructure used to simulate adversarial operations in controlled environments.
-* **Malware Engineering** – Research into malware design, execution mechanisms, and evasion techniques for defensive study and threat modelling.
-* **Offensive Security Automation** – Building automated systems that assist in reconnaissance, vulnerability discovery, and attack surface mapping.
-* **OSINT & Reconnaissance Frameworks** – Tools for gathering intelligence and analysing publicly exposed infrastructure.
-* **Applied Security Research** – Experimental projects that study emerging techniques used in modern cyber operations.
-
----
-
-## Projects
-
-| Project          | Description                                                                                |
-| ---------------- | ------------------------------------------------------------------------------------------ |
-| **Kaalix**       | Offensive security automation framework designed for modular red team operations           |
-
-
-These projects are published as part of ongoing research and are intended to support security practitioners, researchers, and students studying offensive security methodologies.
+Projects span domain intelligence, DNS infrastructure, network security engineering, investigative methodology, and security automation. Where existing tools were insufficient, new ones were built from scratch.
 
 ---
 
 ## Research Philosophy
 
-Understanding adversaries requires building and studying the tools they use.
+Understanding adversaries requires more than technical knowledge. It requires understanding how they think, why they make the decisions they do, and how their behaviour patterns manifest in infrastructure and operations.
 
-Projects published by this organisation are designed to provide practical insights into adversarial techniques and system weaknesses. The objective is to support the broader cybersecurity community by contributing practical research that improves defensive capabilities.
+This organisation approaches security research from both directions — technical analysis of systems and behavioural analysis of the people operating them. That combination informs everything published here.
 
-All projects are developed with the following goals:
+All research is conducted under defined legal and ethical boundaries, in isolated lab environments, with responsible disclosure as a baseline expectation.
 
-* advancing cybersecurity research
-* supporting education and practical learning
-* enabling authorised security testing and experimentation
+---
+
+## Research Areas
+
+- **OSINT & Domain Intelligence** — Mapping adversarial infrastructure, detecting lookalike domains, and correlating open-source signals at scale.
+
+- **DNS Infrastructure Research** — Security-focused resolver engineering, domain behaviour analysis, and DNS protocol internals.
+
+- **Adversary Behaviour Analysis** — TTP modelling grounded in MITRE ATT&CK, informed by criminal psychology and behavioural pattern research.
+
+- **Network Security Engineering** — Lab infrastructure design, traffic analysis, sandbox architecture, and secure network segmentation.
+
+- **Investigative Security Research** — Evidence-based analysis of phishing campaigns, cybercrime operations, and adversarial infrastructure — including responsible escalation to national authorities where warranted.
 
 ---
 
 ## Organisation Policies
 
-Repositories maintained under **Biswadeb Mukherjee's Lab** follow a defined governance, engineering, and security policy framework to maintain research integrity, code quality, and responsible project usage.
+All repositories under **Biswadeb's Lab** follow a defined governance, engineering, and security policy framework. Before interacting with any repository, contributors and users are expected to review the following:
 
-Before interacting with any repository, contributors and users are encouraged to review the following policy documents:
-
-- **[GOVERNANCE:](../GOVERNANCE.md)** Defines repository governance, maintainer authority, engineering standards, and project usage rules.
-
-- **[SECURITY:](../Security.md)** Provides instructions for responsible vulnerability disclosure and security reporting.
-
-- **[CONTRIBUTING:](../Contributing.md)** Describes the contribution workflow, pull request expectations, and development practices.
-
-- **[License:](../LICENSE)** Defines the license used by the organisational project.
-
-All contributors are expected to review these documents before submitting issues, pull requests, or participating in repository discussions.
+- **[GOVERNANCE](../GOVERNANCE.md)** — Repository governance, maintainer authority, engineering standards, and project usage rules
+- **[SECURITY](../Security.md)** — Responsible vulnerability disclosure and security reporting
+- **[CONTRIBUTING](../Contributing.md)** — Contribution workflow, pull request expectations, and development practices
+- **[LICENSE](../LICENSE)** — License governing organisational projects
 
 ---
 
 ## Support the Research
 
-If you find value in the research, tools, and projects published by **Biswadeb Mukherjee's Lab**, you may support the continued development of these initiatives.
+If you find value in the work published here, you may support continued development. Contributions help sustain research activities, maintain lab infrastructure, and fund new tooling.
 
-Contributions help sustain research activities, maintain infrastructure used for experimentation, and support the development of new tools and frameworks.
-
-Before making any contribution, please review the **[Payment Rules & Support:](../Payment-Rules.md)**
-
-You can support the work here:
+Before contributing, please review the **[Payment Rules & Support](../Payment-Rules.md)**
 
 <a href="https://www.buymeacoffee.com/official.biswadeb941" target="_blank">
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee">
 </a>
 
+---
+
 ## Maintainer
 
-**Mr. Biswadeb Mukherjee**
-
-Offensive Security Researcher & Malware Engineer
+**Mr. Biswadeb Mukherjee**  
+Security Engineer & Independent Researcher
 
 - **Website:** https://official-biswadeb941.in
-- **Mail-Id:** admin@official-biswadeb941.in
+- **Blog:** https://blogs.official-biswadeb941.in
+- **Email:** admin@official-biswadeb941.in
