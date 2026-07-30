@@ -12,8 +12,8 @@ All individuals interacting with repositories within this organisation are expec
 
 All repositories within this organisation are originally authored and maintained by:
 
-**Biswadeb Mukherjee**
-Security Engineer & Researcher
+- **Biswadeb Mukherjee**
+- Security Engineer & Researcher
 
 Unless explicitly stated otherwise, the maintainer retains full authority over:
 
