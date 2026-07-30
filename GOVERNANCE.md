@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This document defines the governance model and operational rules for repositories maintained under **Biswadeb Mukherjee's Lab**. Its purpose is to ensure transparency, maintain project quality, and establish clear expectations for contributors and users.
+This document defines the governance model and operational rules for repositories maintained under **Biswadeb's Lab**. Its purpose is to ensure transparency, maintain project quality, and establish clear expectations for contributors and users.
 
 All individuals interacting with repositories within this organisation are expected to understand and follow these rules.
 
@@ -12,8 +12,8 @@ All individuals interacting with repositories within this organisation are expec
 
 All repositories within this organisation are originally authored and maintained by:
 
-**Mr. Biswadeb Mukherjee**
-Offensive Security Researcher & Malware Engineer
+**Biswadeb Mukherjee**
+Security Engineer & Researcher
 
 Unless explicitly stated otherwise, the maintainer retains full authority over:
 
@@ -160,12 +160,10 @@ This governance document may be updated periodically to reflect changes in proje
 Users and contributors are encouraged to review this document periodically.
 
 ---
-
 # Maintainer
 
-**Mr. Biswadeb Mukherjee**
+Developed and maintained by **Biswadeb's Lab**.
 
-Offensive Security Researcher & Malware Engineer
-
-**Website:** https://official-biswadeb941.in
+- Website: https://official-biswadeb941.in
+- GitHub: https://github.com/Biswadebs-Lab
 
