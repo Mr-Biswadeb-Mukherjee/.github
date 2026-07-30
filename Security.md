@@ -2,7 +2,7 @@
 
 ## Overview
 
-Biswadeb Mukherjee's Lab publishes research projects related to offensive security, malware engineering, reconnaissance, and adversarial simulation. These projects are intended for **educational purposes, authorized security testing, and cybersecurity research**.
+Biswadeb Mukherjee's Lab publishes research projects related to offensive security, malware engineering, reconnaissance, and adversarial simulation. These projects are intended for **educational purposes, authorised security testing, and cybersecurity research**.
 
 The tools and frameworks released by this organisation are designed to help researchers and security professionals better understand adversarial techniques, system weaknesses, and defensive strategies.
 
@@ -51,8 +51,8 @@ We request that security issues are **not publicly disclosed until they have bee
 Once a reported issue has been validated, the maintainer will work toward:
 
 1. Confirming the vulnerability
-2. developing a fix or mitigation
-3. releasing an update or advisory
+2. Developing a fix or mitigation
+3. Releasing an update or advisory
 
 Responsible disclosure helps maintain the integrity of the research and protects users of the software.
 
@@ -66,8 +66,7 @@ This policy applies to all repositories maintained under this organisation unles
 
 ## Maintainer
 
-Mr. Biswadeb Mukherjee
+Developed and maintained by **Biswadeb's Lab**.
 
-Offensive Security Researcher & Malware Engineer
-
-Website: https://official-biswadeb941.in
+- Website: https://official-biswadeb941.in
+- GitHub: https://github.com/Biswadebs-Lab
