@@ -2,7 +2,7 @@
 
 ## Overview
 
-Biswadeb Mukherjee's Lab publishes research projects related to offensive security, malware engineering, reconnaissance, and adversarial simulation. These projects are intended for **educational purposes, authorised security testing, and cybersecurity research**.
+Biswadeb's Lab publishes research projects related to offensive security, malware engineering, reconnaissance, and adversarial simulation. These projects are intended for **educational purposes, authorised security testing, and cybersecurity research**.
 
 The tools and frameworks released by this organisation are designed to help researchers and security professionals better understand adversarial techniques, system weaknesses, and defensive strategies.
 
