@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Thank you for your interest in contributing to projects maintained by **Biswadeb Mukherjee's Lab**. Contributions from the community help improve research quality, tooling reliability, and the overall security ecosystem.
+Thank you for your interest in contributing to projects maintained by **Biswadeb's Lab**. Contributions from the community help improve research quality, tooling reliability, and the overall security ecosystem.
 
 This document outlines the process and expectations for contributing to repositories within this organisation.
 
@@ -16,7 +16,7 @@ Contributions are welcome in several areas, including:
 * performance optimizations
 * research contributions and experimental modules
 
-All contributions should align with the organization's focus on **offensive security research, malware engineering, reconnaissance, and security tooling**.
+All contributions should align with the organisation's focus on **OSINT, Network Security, Web Application Security, Threat Intelligence, offensive security research, malware engineering, reconnaissance, and security tooling**.
 
 ---
 
@@ -114,9 +114,7 @@ These measures help maintain the integrity, quality, and research focus of the o
 
 ## Maintainer
 
-**Mr. Biswadeb Mukherjee**
+Developed and maintained by **Biswadeb's Lab**.
 
-Offensive Security Researcher & Malware Engineer
-
-Website
-https://official-biswadeb941.in
+- Website: https://official-biswadeb941.in
+- GitHub: https://github.com/Biswadebs-Lab
